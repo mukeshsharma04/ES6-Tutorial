@@ -11,5 +11,8 @@
     "Tutorial"
   ],
   "author": "Mukesh Sharma",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "fetch": "^1.1.0"
+  }
 }
